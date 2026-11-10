@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/rayon-rs/either/commit/1e4326df5972eb4a0ced66cb3b67fa0c5aca8493",
       "git:hexsha": "1e4326df5972eb4a0ced66cb3b67fa0c5aca8493",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "1.19.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "1.19.0",
+      "repolex:parsedAt": "2026-11-10T04:00:25.097223+00:00"
     },
     {
       "@id": "https://repolex.ai/r/rayon-rs/either/commit/ea6e207a40d88289b965a46d4cc346d72bb51d5b",
