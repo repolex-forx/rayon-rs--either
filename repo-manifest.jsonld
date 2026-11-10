@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/rayon-rs/either/commit/1e4326df5972eb4a0ced66cb3b67fa0c5aca8493",
       "git:hexsha": "1e4326df5972eb4a0ced66cb3b67fa0c5aca8493",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "1.19.0"
     },
     {
