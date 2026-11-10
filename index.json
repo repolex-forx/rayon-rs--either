@@ -1,0 +1,11 @@
+{
+  "org": "rayon-rs",
+  "repo": "either",
+  "versions": [
+    {
+      "commit": "1e4326df5972eb4a0ced66cb3b67fa0c5aca8493",
+      "tag": "1.19.0",
+      "parsed_at": "2026-11-10T04:00:25.191941+00:00"
+    }
+  ]
+}
