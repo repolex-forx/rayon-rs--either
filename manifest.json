@@ -1,0 +1,32 @@
+{
+  "manifest_version": "1.0",
+  "org": "rayon-rs",
+  "repo": "either",
+  "versions": [
+    {
+      "commit": "1e4326df5972eb4a0ced66cb3b67fa0c5aca8493",
+      "parsed_at": "2026-11-10T03:58:00.764499+00:00",
+      "tag": "1.19.0",
+      "filetree": "filetree/1e4326df5972eb4a0ced66cb3b67fa0c5aca8493.nq.gz",
+      "blobs": [
+        "blob/5462b23fd70cd7b95f8760de0390c26311471eae.nq.gz",
+        "blob/73746c80f11f156cb6dfd27868d436e567d732ff.nq.gz",
+        "blob/16fe87b06e802f094b3fbb0894b137bca2b16ef1.nq.gz",
+        "blob/4fffb2f89cbd8f2169ce9914bd16bd43785bb368.nq.gz",
+        "blob/0dae0804567a928545ccb1f2bf849725a0a4d5fe.nq.gz",
+        "blob/9203baa055d41d89e1ab8f4d6aa9180a49e078a7.nq.gz",
+        "blob/027e9431676947ab0e52adadcf6d9529b8f18738.nq.gz",
+        "blob/842e45d0435e595b972d7a5499bf3ed7142de7bf.nq.gz",
+        "blob/d7d1ba0651cd972e400bf22708dc913925aa2018.nq.gz",
+        "blob/d62dd7d06546653a1f94ee31f89d0df77dfb128b.nq.gz",
+        "blob/d1316935c4dc823d1f396c1eca3d8d26705fa604.nq.gz",
+        "blob/d294c6e0f3ef9072b877e93be4c15117d10671d7.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
