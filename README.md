@@ -36,30 +36,47 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 .
 ├── aggregate
 │   ├── ast
-│   │   └── 1e4326df5972eb4a0ced66cb3b67fa0c5aca8493
+│   │   ├── 1e4326df5972eb4a0ced66cb3b67fa0c5aca8493
+│   │   │   └── chunk-001.nq.gz
+│   │   └── 59ae1fce0cec62c886fcd486e06b7e219bc7ce48
 │   │       └── chunk-001.nq.gz
+│   ├── lsp
+│   │   └── 59ae1fce0cec62c886fcd486e06b7e219bc7ce48.nq.gz
 │   └── repolex
-│       └── 1e4326df5972eb4a0ced66cb3b67fa0c5aca8493
+│       ├── 1e4326df5972eb4a0ced66cb3b67fa0c5aca8493
+│       │   └── chunk-001.nq.gz
+│       └── 59ae1fce0cec62c886fcd486e06b7e219bc7ce48
 │           └── chunk-001.nq.gz
 ├── blob
 │   ├── 027e9431676947ab0e52adadcf6d9529b8f18738.nq.gz
 │   ├── 0dae0804567a928545ccb1f2bf849725a0a4d5fe.nq.gz
 │   ├── 16fe87b06e802f094b3fbb0894b137bca2b16ef1.nq.gz
+│   ├── 1d17f73cc4d0c4310e9d794378d36ac298b75d1e.nq.gz
+│   ├── 2f3843b7a2ec6ec6588c75a9a1aeca84ffb794c8.nq.gz
 │   ├── 4fffb2f89cbd8f2169ce9914bd16bd43785bb368.nq.gz
 │   ├── 5462b23fd70cd7b95f8760de0390c26311471eae.nq.gz
+│   ├── 72078c3ec8e88e4f44452bd96ddaa21ce5560bb5.nq.gz
 │   ├── 73746c80f11f156cb6dfd27868d436e567d732ff.nq.gz
+│   ├── 7665f1ff0dd71a19fd0e6a42e72ae80ad2722c72.nq.gz
 │   ├── 842e45d0435e595b972d7a5499bf3ed7142de7bf.nq.gz
 │   ├── 9203baa055d41d89e1ab8f4d6aa9180a49e078a7.nq.gz
 │   ├── d1316935c4dc823d1f396c1eca3d8d26705fa604.nq.gz
 │   ├── d294c6e0f3ef9072b877e93be4c15117d10671d7.nq.gz
+│   ├── d36890278b328ee3adb74652af44756aa36a74d7.nq.gz
+│   ├── d54fab793d969a5c6702bb42ae411c05787f0691.nq.gz
 │   ├── d62dd7d06546653a1f94ee31f89d0df77dfb128b.nq.gz
-│   └── d7d1ba0651cd972e400bf22708dc913925aa2018.nq.gz
+│   ├── d7d1ba0651cd972e400bf22708dc913925aa2018.nq.gz
+│   ├── e2265eb7104057c0839cb393f331e53f2ca5fb8f.nq.gz
+│   └── fb3239ace1d5e4166de5ad52ea5bcb2067dfe536.nq.gz
 ├── branch
 │   └── branch.nq.gz
 ├── commit
 │   └── commit.nq.gz
+├── dep
+│   └── 59ae1fce0cec62c886fcd486e06b7e219bc7ce48.nq.gz
 ├── filetree
-│   └── 1e4326df5972eb4a0ced66cb3b67fa0c5aca8493.nq.gz
+│   ├── 1e4326df5972eb4a0ced66cb3b67fa0c5aca8493.nq.gz
+│   └── 59ae1fce0cec62c886fcd486e06b7e219bc7ce48.nq.gz
 ├── issue
 │   └── issue.nq.gz
 ├── pr
@@ -67,7 +84,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 └── tag
     └── tag.nq.gz
 
-13 directories, 20 files
+17 directories, 33 files
 ```
 
 | Directory | What it contains |
@@ -88,4 +105,4 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 [rayon-rs/either](https://github.com/rayon-rs/either)
 
 ---
-*Parsed on 2026-11-10 by [repolex](https://repolex.ai)*
+*Parsed on 2026-11-22 by [repolex](https://repolex.ai)*

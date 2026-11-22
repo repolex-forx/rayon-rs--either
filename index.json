@@ -3,6 +3,11 @@
   "repo": "either",
   "versions": [
     {
+      "commit": "59ae1fce0cec62c886fcd486e06b7e219bc7ce48",
+      "tag": "1.15.0",
+      "parsed_at": "2026-11-22T00:36:42.731374+00:00"
+    },
+    {
       "commit": "1e4326df5972eb4a0ced66cb3b67fa0c5aca8493",
       "tag": "1.19.0",
       "parsed_at": "2026-11-10T04:00:25.191941+00:00"
